@@ -4,9 +4,17 @@
   margin: 0;
 }
 
+
+/*  Abbreviatiosn for the following terms will be used throughout the comments: Search Engine Optimization (SEO) Online Reputation Management (ORM) Social Media Marketing (SMM) */
+
+
+/* this is identifying the background color of the body of the page */
+
 body {
   background-color: #d9dcd6;
 }
+
+/* This is identifying the characteristics of the header, a blueish background, white text color and what type of font and the padding around the text */
 
 .header {
   padding: 20px;
@@ -16,14 +24,18 @@ body {
   color: #ffffff;
 }
 
+
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/* This is changing the color of the text of "seo" within the "Horiseon" text of the header*/
+
 .header h1 .seo {
   color: #d9dcd6;
 }
+
 
 .header nav {
   padding-top: 15px;
@@ -33,23 +45,31 @@ body {
   font-size: 20px;
 }
 
+/* This is targeting the unordered list of the SEO, ORM & SMM within the header*/
+
 .header nav ul {
   list-style-type: none;
 }
+
 
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
 
+/* Describing the text color of the SEO, ORM & SMM within the header */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/*Describing the size of the paragraph font, specifically within the SEO, ORM & SMM sections below the large "hero" image" */
+
 p {
   font-size: 16px;
 }
+
+/* All of the traits of the large image below the header of people in a maeeting */
 
 .hero {
   height: 800px;
@@ -60,10 +80,14 @@ p {
   background-position: center;
 }
 
+/*telling the image in the SEO section to float to the left of its container */
+
 .float-left {
   float: left;
   margin-right: 25px;
 }
+
+/*telling the image in the ORM section to float to the right of its container  */
 
 .float-right {
   float: right;
@@ -76,6 +100,8 @@ p {
   margin-left: 20px;
 }
 
+/*The attributes of the aside container which contains the Lead generation, brand awareness and benefit cost blurbs descriptions */
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -86,6 +112,7 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
+
 
 
 .benefit-lead, .benefit-brand, .benefit-cost {
@@ -119,11 +146,14 @@ p {
   max-height: 200px;
 }
 
+/*Targetig the class of */
+
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
+/* All of the attirbutes of the footer section */
 .footer {
   padding: 30px;
   clear: both;
@@ -131,6 +161,8 @@ p {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
+
+/* font size of the text in the footer section */
 
 .footer h2 {
   font-size: 20px;
