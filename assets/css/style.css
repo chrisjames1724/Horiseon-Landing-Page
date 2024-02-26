@@ -116,16 +116,22 @@ p {
 }
 
 
+/* Targeting the color of the text within the snd the margin within each of their individual containers within the larger aside container */
 
 .benefit-lead, .benefit-brand, .benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
+
+/* This is centering the header text of the benefit-lead, brand & cost containers titles in their containers */
+
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
   margin-bottom: 10px;
   text-align: center;
 }
+
+/* Targeting characteristics of the images within the aside container */
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
   display: block;
