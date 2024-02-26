@@ -5,7 +5,7 @@
 }
 
 
-/*  Abbreviatiosn for the following terms will be used throughout the comments: Search Engine Optimization (SEO) Online Reputation Management (ORM) Social Media Marketing (SMM) */
+/*  Abbreviations for the following terms will be used throughout the comments: Search Engine Optimization (SEO) Online Reputation Management (ORM) Social Media Marketing (SMM) */
 
 
 /* this is identifying the background color of the body of the page */
@@ -24,6 +24,8 @@ body {
   color: #ffffff;
 }
 
+
+/* Font size of "Horiseon" and in-line with SEO, ORM & SMM of the header container*/
 
 .header h1 {
   display: inline-block;
