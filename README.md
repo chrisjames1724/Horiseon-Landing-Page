@@ -2,9 +2,9 @@
 
 ## Description
 
-This project was an example of an on-the-job ticket in which we were given starter code that needed to be refactored as well as identifying a couple tools that were not yet fully coded out.
+This project was an example of an on-the-job ticket in which we were given starter code that needed to be refactored. There was also an aspect of identifying a couple tools that were not yet fully coded out.
 
-There were many instances within the CSS that characteristics could have been condensed in order to make the code easier to read and understand. Additionally, many “divs” were used to describe semantic elements which could have been more specifically named for the code to be cleaner. There was also a header with a non functioning link which needed to be addressed in order to function the way the other headers items were.
+There were many instances within the CSS that characteristics could have been condensed in order to make the code easier to read and understand. Additionally, many “divs” were used to describe semantic elements which could have been more specifically named for the code to be cleaner. There was also a header with a non functioning link which needed to be addressed in order to function the way the other header items were.
 
 Through this project I learned how there are many ways of naming and placing items in containers while being more descriptive using more semantic elements than just "div". This makes the html code much easier to read and also helps be more specific in CSS. I also realized how grouping elements together in the CSS makes for a cleaner read when going through the code.
 
@@ -14,15 +14,15 @@ N/A
 
 ## Usage
 
-The Horiseon page seems to be a company that specializes in Search Engine Optimization, Online Reputation Management & Social Media Marketing. They accomplish this through increasing lead generation, brand awareness and cost management. Here is an image of the entire webpage:
+The Horiseon page seems to be for a company that specializes in Search Engine Optimization, Online Reputation Management & Social Media Marketing. They accomplish this through increasing lead generation, brand awareness and cost management. Here is an image of the entire webpage:
 
 ![Horiseon Homepage](<assets/images/Horiseon Homepage.png>)
 
-If you go to the header section of the image above you can click on the titles of Search Engine Optimization, Online Reputation Management or Social Media Marketing.
+If you go to the header section of the image above (zoomed in here below) you can click on the titles of Search Engine Optimization, Online Reputation Management or Social Media Marketing.
 
 ![Horiseon Header section](<assets/images/Header Section Horiseon.png>)
 
-When clikcing on one of the titles, the page will direct you down to the specific section that was selected in the header below the large image beneath the header. As seen below:
+When clikcing on one of the titles, the page will re-direct you down to the specific section selected. When re-directed each section is described in more detail as seen in the image below:
 
 ![SEO, ORM, SMM sections](<assets/images/SEO, ORM, SMM sections.png>)
 
