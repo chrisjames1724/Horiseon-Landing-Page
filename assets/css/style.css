@@ -54,6 +54,7 @@ body {
   list-style-type: none;
 }
 
+/* aligning the SEO, ORM & SMM headers inline within the nav header */
 
 .header nav ul li {
   display: inline-block;
@@ -96,6 +97,8 @@ p {
   float: right;
   margin-left: 25px;
 }
+
+/* Makes the contnt section at 75% width allowing for room to include the aside section */
 
 .content {
   width: 75%;
