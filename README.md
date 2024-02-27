@@ -8,6 +8,10 @@ There were many instances within the CSS that characteristics could have been co
 
 Through this project I learned how there are many ways of naming and placing items in containers while being more descriptive using more semantic elements. This makes the html code much easier to read and also helps be more specific in CSS. I also realized how grouping elements together in the CSS makes for a cleaner read when going through the code.
 
+## Usage
+
+[Header Section img](<assets/images/Header Section Horiseon.png>))
+
 ## Credits
 
 https://github.com/chrisjames1724/Horiseon-Landing-Page
