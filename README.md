@@ -1,6 +1,12 @@
 # Project README.me for Module 1 Challenge
 
+## Description
+
 This project was an example of an on-the-job ticket in which we were given starter code that needed to be refactored as well as identifying a couple tools that were not yet fully coded out.
+
+There were many instances within the CSS that characteristics could have been condensed in order to make the code easier to read and understand. Additionally, many “<divs>” were used to describe semantic elements which could have been more specifically named for the code to be cleaner. There was also a header with a non functioning link which needed to be addressed in order to function the way the other headers items were.
+
+Through this project I learned how there are many ways of naming and placing items in containers while being more descriptive using more semantic elements. This makes the html code much easier to read and also helps be more specific in CSS. I also realized how grouping elements together in the CSS makes for a cleaner read when going through the code.
 
 ## Credits
 
