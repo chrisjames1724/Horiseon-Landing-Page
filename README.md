@@ -16,7 +16,7 @@ The Horiseon page seems to be a company that specializes in Search Engine Optimi
 
 If you go to the header section of the image above you can click on the titles of Search Engine Optimization, Online Reputation Management or Social Media Marketing.
 
-[Header Section img](<assets/images/Header Section Horiseon.png>)
+![Horiseon Header section](<assets/images/Header Section Horiseon.png>)
 
 When clikcing on one of the titles, the page will direct you down to the specific section that was selected in the header below the large image beneath the header. As seen below:
 
